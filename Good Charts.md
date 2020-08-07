@@ -1,6 +1,6 @@
 # Good Charts - The HBR Guide to Making Smarter, More Persuasive Data Visualizations
 
-## Two questions --> Four types
+## Chapter 3. Two questions --> Four types
 
 ### A simple typology for chart making
 
@@ -16,7 +16,7 @@ The visual issues are the breakdown of communication in the size of the graphic,
 #### Why visual exploration aims for insights in the data?
 Since it will gather all statistics properties to stablish a monumental inclusive premise in data comparison and visualization.
 
-## Better charts in a couple of hours
+## Chapter 4. Better charts in a couple of hours
 
 ### A simple framework
 
@@ -38,7 +38,7 @@ Paper, digital, and paired.
 #### Which prototype category is good for simpler datasets and simpler visualizations?
 Paper prototyping.
 
-## Refine to impress
+## Chapter 5. Refine to impress
 
 ### Getting to the "Feeling behind our eyes"
 
@@ -54,7 +54,7 @@ To identify the elements which should or shouldn't be kept to make the simpler g
 #### What is belt-and-suspenders-design?
 The decision of distinguish the use of subtitles elements, size and italics and decide which is the best one to put onto your chart.
 
-## Refine to persuade
+## Chapter 6. Refine to persuade
 
 ### Three steps to more-persuasive charts
 
@@ -70,7 +70,7 @@ By removing or eliminating elements from the charts, desemphasizing other visual
 #### Which are the three manipulation for reference points?
 Remove, add, and shift.
 
-## Persuasion or manipulation?
+## Chapter 7. Persuasion or manipulation?
 
 ### The blurred edge of truth
 
