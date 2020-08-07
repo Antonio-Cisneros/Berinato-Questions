@@ -58,7 +58,7 @@ The decision of distinguish the use of subtitles elements, size and italics and 
 
 ### Three steps to more-persuasive charts
 
-#### According to the chapter 6, What is salient information?0.0 to 50
+#### According to the chapter 6, What is salient information?
 The perception of information that will most likely to capture public's attention based on the cognition of estimulation.
 
 #### What is the most obvious and common form of emphasis on a chart?
